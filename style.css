@@ -1,0 +1,32 @@
+.img-langding {
+    margin: 0 auto;
+    width: 95%;
+}
+
+.text {
+    width: 50%;
+    margin-left: 6%;
+    margin-top: 70px;
+}
+
+#big {
+    line-height: 20mm;
+}
+
+.profile a {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.profile img {
+    margin-bottom: 10px;
+}
+
+.profile {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+i {
+    font-family: Comic Sans MS;
+}
